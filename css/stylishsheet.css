@@ -38,7 +38,7 @@ input[type=password] {
 }
 input[type=submit] {
   box-sizing: border-box;
-  font-size: 18px;
+  font-size: 18 px;
   font-weight: 500;
   color: white ;
   background-color: rgb(4, 4, 41);
